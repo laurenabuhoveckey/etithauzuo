@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohpeepaeni.denis-engemann.de/sitemap.xml
